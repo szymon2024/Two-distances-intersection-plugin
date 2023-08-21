@@ -8,4 +8,4 @@ To install the plugin from github, download the project as a zip file (click but
 
 After installing the plugin, help is available in the Help menu, Plugins.
 
-Version 1.0.11 (fixed a few bugs: service layers with attributes, mistake in action name)
+Version 1.0.11
