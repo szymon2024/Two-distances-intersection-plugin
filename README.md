@@ -1,9 +1,3 @@
-QGIS issue found:
-QgsGeometryUtils.circleCircleIntersections does not work properly #54322
-
-2023-08-23 return to experimental mode
-
-
 TWO DISTANCES INTERSECTION PLUGIN FOR QGIS
 
 The plugin allows you get the intersection of two distances (2D cartesian) and is created with QGIS 3.28 application.
@@ -14,4 +8,4 @@ To install the plugin from github, download the project as a zip file (click but
 
 After installing the plugin, help is available in the Help menu, Plugins.
 
-Version 1.0.11 experimental
+Version 1.0.12-phoenix experimental
