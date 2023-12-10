@@ -8,4 +8,4 @@ To install the plugin from github, download the project as a zip file (click but
 
 After installing the plugin, help is available in the Help menu, Plugins.
 
-Version 1.0.13
+Version 1.0.14
