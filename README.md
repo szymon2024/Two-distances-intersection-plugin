@@ -12,4 +12,4 @@ Note: Not all coordinate systems (CRS) allow you to enter a distance in the adva
 
 Version 1.0.14
 
-![Show](first_touch.gif)
+![Show](first_look.gif)
