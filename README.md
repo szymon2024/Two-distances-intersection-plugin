@@ -1,4 +1,4 @@
-TWO DISTANCES INTERSECTION IN 2D - PLUGIN FOR QGIS APPLICATION
+2D TWO DISTANCES INTERSECTION PLUGIN FOR QGIS APPLICATION
 
 The plugin allows you get the intersection of two distances (2D cartesian) and is created with QGIS 3.28 application.
 
