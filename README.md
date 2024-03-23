@@ -12,7 +12,9 @@ Note 1: Not all coordinate systems (CRS) allow you to enter a distance in the ad
 
 Note 2: After each using the plugin, measure the designated distances with the qgis measurement tool to see the precision is sufficient for you.
 
-Version 1.0.14. RUN RUN ! GOOD LUCK !
+Version 1.0.14.
+
+run run ! good luck !
 
 Short video:
 ![Two-distances-intersection-plugin](first_look.gif)
@@ -20,7 +22,7 @@ Short video:
 [PL]
 PRZECIĘCIE DWÓCH ODLEGŁOŚCI WTYCZKA DO APLIKACJI QGIS
 
-Wtyczka pozwala uzyskać przecięcie dwóch odległości (kartezjańskich 2D) i jest utworzona za pomocą aplikacji QGIS 3.28.
+Wtyczka pozwala uzyskać przecięcie dwóch odległości (w układzie kartezjańskim 2D) i jest utworzona za pomocą aplikacji QGIS 3.28.
 
 Instaluje jeden przycisk. To jest narzędzie 2D i nie uwzględnia współrzędnej Z. Można je uruchomić klikając na przycisk. Wskazujesz dwie odległości tak, jakbyś rysował okręgi (kliknięcie lewym przyciskiem myszy, a następnie kliknięcie prawym przyciskiem myszy). Jeśli mają dwa przecięcia, możesz wskazać jedno. Przecięcie (wynik) zostanie pokazane w zależności od geometrii warstwy. W warstwie punktowej będzie to punkt, w warstwie linii dwa odcinki, a w warstwie wielokąta trójkąt. Jeśli używasz wtyczki i chcesz wprowadzać odległości liczbowo, wyświetl panel Zaawansowana digitalizacja z menu Panele w menu Widok w QGIS.
 
@@ -32,4 +34,6 @@ Uwaga 1: Nie wszystkie układy współrzędnych (CRS) pozwalają na wprowadzenie
 
 Uwaga 2: Po każdym użyciu wtyczki zmierz wyznaczone odległości narzędziem pomiarowym qgis, aby sprawdzić, czy precyzja jest dla Ciebie wystarczająca.
 
-Wersja 1.0.14 BIEGNIJ BIEGNIJ ! POWODZENIA !
+Wersja 1.0.14
+
+biegnij biegnij ! powodzenia !
