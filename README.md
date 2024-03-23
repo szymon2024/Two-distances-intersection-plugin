@@ -14,5 +14,5 @@ Note 2: After each using the plugin, measure the designated distances with the q
 
 Version 1.0.14
 
-Short video below and other in wiki tab
+Short video below and another in wiki tab
 ![Two-distances-intersection-plugin](first_look.gif)
