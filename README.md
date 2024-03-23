@@ -12,7 +12,7 @@ Note 1: Not all coordinate systems (CRS) allow you to enter a distance in the ad
 
 Note 2: After each using the plugin, measure the designated distances with the qgis measurement tool to see the precision is sufficient for you.
 
-Version 1.0.14
+Version 1.0.14. RUN RUN ! GOOD LUCK !
 
 Short video:
 ![Two-distances-intersection-plugin](first_look.gif)
