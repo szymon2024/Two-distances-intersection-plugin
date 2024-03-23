@@ -14,4 +14,3 @@ Note 2: After each using the plugin, measure the designated distances with the q
 
 Version 1.0.14
 
-![Show](first_look.gif)
