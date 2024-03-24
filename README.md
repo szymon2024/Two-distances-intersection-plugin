@@ -12,3 +12,5 @@ Note: Not all coordinate systems (CRS) allow you to enter a distance in the adva
 
 Version 1.0.14
 
+Short video below and another in wiki tab
+![Two-distances-intersection-plugin](first_look.gif)
