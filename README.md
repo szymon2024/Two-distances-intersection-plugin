@@ -8,9 +8,7 @@ To install the plugin from github, download the project as a zip file (click 1.0
 
 After installing the plugin, help is available in the Help menu, Plugins.
 
-Note 1: Not all coordinate systems (CRS) allow you to enter a distance in the advanced digitization panel. The tool is useful for working with flat coordinate systems, for example for Poland EPSG:2176, EPSG:2177, EPSG:2178, EPSG:2179.
-
-Note 2: After each using the plugin, measure the designated distances with the qgis measurement tool to see the precision is sufficient for you.
+Note: Not all coordinate systems (CRS) allow you to enter a distance in the advanced digitization panel. The tool is useful for working with flat coordinate systems, for example for Poland EPSG:2176, EPSG:2177, EPSG:2178, EPSG:2179.
 
 Version 1.0.14
 
