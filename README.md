@@ -10,6 +10,4 @@ After installing the plugin, help is available in the Help menu, Plugins.
 
 Note: Not all coordinate systems (CRS) allow you to enter a distance in the advanced digitization panel. The tool is useful for working with flat coordinate systems, for example for Poland EPSG:2176, EPSG:2177, EPSG:2178, EPSG:2179.
 
-Version 1.0.14
-
-![Two-distances-intersection-plugin](first_look.gif)
+Version 1.0.15
