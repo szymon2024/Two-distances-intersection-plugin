@@ -6,7 +6,7 @@ Version 1.0.16
 ![First look](firstLook.gif)
 
 
-To install the plugin from github, download the project as a zip file (click Code button, Download ZIP). Run QGIS application. Click the Plugins menu, then Manage and Install Plugins... (wait for a moment here or break fetching list of plugins), next Install from ZIP. Then select the downloaded zip file and click Install Plugin button.
+To install the plugin from github, download .... Run QGIS application. Click the Plugins menu, then Manage and Install Plugins... (wait for a moment here or break fetching list of plugins), next Install from ZIP. Then select the downloaded zip file and click Install Plugin button.
 
 After installing the plugin, help is available in the Help menu, Plugins.
 
