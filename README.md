@@ -8,8 +8,3 @@ Version 1.0.16
 
 To install the plugin from github, download twodistancesintersectionplugin-1.0-16-en.zip by right click on the file. Run QGIS application. Click the Plugins menu, then Manage and Install Plugins... (wait for a moment here or break fetching list of plugins), next Install from ZIP. Then select the downloaded zip file and click Install Plugin button.
 
-After installing the plugin, help is available in the Help menu, Plugins.
-
-Note: Not all coordinate systems (CRS) allow you to enter a distance in the advanced digitization panel. The tool is useful for working with flat coordinate systems, for example for Poland EPSG:2176, EPSG:2177, EPSG:2178, EPSG:2179.
-
-
