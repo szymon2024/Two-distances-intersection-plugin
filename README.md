@@ -10,4 +10,4 @@ To install the plugin from github, download twodistancesintersectionplugin-1.0-1
 
 Help is in twodistancesintersectionplugin-1.0.16-docs-en.zip. It can be downloaded and unzipped. Then open Index.html in web browser.
 
-[pl] Do zainstalowania polskiej wersji pobierz twodistancesintersectionplugin-1.0-16-pl.zip
+[pl] Do zainstalowania wtyczki w polskiej wersji pobierz twodistancesintersectionplugin-1.0-16-pl.zip
