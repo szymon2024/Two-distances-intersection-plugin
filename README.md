@@ -1,6 +1,5 @@
 
-<h1>Two distances intersection plugin<br>
-for QGIS application</h1>
+#Two distances intersection plugin for QGIS application
 
 The plugin allows you get the intersection of two distances (2D Cartesian) and is created with QGIS 3.28 application.
 
