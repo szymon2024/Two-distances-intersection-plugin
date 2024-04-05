@@ -11,4 +11,4 @@ To install the plugin from github go to the plugins folder, left click on the fi
 
 The language versions have UTF-8 text character encoding.
 
-Help is in docs folder. Go to the docs folder, left click on the file you want to download, click on the small raw button on the right and then click OK. Unzip downloaded file. Then open Index.html in web browser.
+Help is in docs folder. Go to the docs folder, left click on the file you want to download, click on the small "Raw" button on the right and then click OK. Unzip downloaded file. Then open Index.html in web browser.
