@@ -9,6 +9,6 @@ Version 1.0.16
 
 To install the plugin from github go to the plugins folder, left click on the file you want to download, click on the small "Raw" button on the right and then click OK. Run QGIS application. Click the Plugins menu, then Manage and Install Plugins... (wait for a moment here or break fetching list of plugins), next Install from ZIP. Then select the downloaded zip file and click Install Plugin button.
 
-Language versions are encoded in UTF-8.
+Language version characters are encoded in UTF-8.
 
 Help is in docs folder. Go to the docs folder, left click on the file you want to download, click on the small "Raw" button on the right and then click OK. Unzip the downloaded file. Then open Index.html in web browser.
